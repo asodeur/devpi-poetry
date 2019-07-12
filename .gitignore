@@ -1,0 +1,5 @@
+/.idea
+/dist
+/devpi_poetry.egg-info
+/build
+__pycache__
